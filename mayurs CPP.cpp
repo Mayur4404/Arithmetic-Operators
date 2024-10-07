@@ -1,6 +1,5 @@
-// Name - Gulamnabi Khan
-// PRN - 23070123503
-
+// Name - Mayur bhapkar
+// PRN - 23070123507
 #include <iostream>
 using namespace std;
 
